@@ -1,0 +1,12 @@
+# Go için
+*.exe
+*.out
+*.test
+vendor/
+
+# IDE
+.idea/
+.vscode/
+
+# Sistem
+.DS_Store
